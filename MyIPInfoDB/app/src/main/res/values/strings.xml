@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeteoMania</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="rechercher">Search</string>
+    <string name="adresse_ip">google.com</string>
+    <string name="address">City</string>
+    <string name="title_activity_meteo">MeteoActivity</string>
+    <string name="title_activity_day">DayActivity</string>
+</resources>
